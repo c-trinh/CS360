@@ -1,0 +1,311 @@
+enter main
+enter a
+enter B
+
+FP Value (argc):	-2908696
+FP Address (argv):	ffd39db8
+u Address (env):	ffd39d9c
+
+FP Value:		7
+FP Address:	ffd39d9c
+----------
+FP Value:		0
+FP Address:	ffd39d98
+----------
+FP Value:		-137091328
+FP Address:	ffd39d94
+----------
+FP Value:		-2908722
+FP Address:	ffd39d90
+----------
+FP Value:		15775231
+FP Address:	ffd39d8c
+----------
+FP Value:		-2908788
+FP Address:	ffd39d88
+----------
+FP Value:		-2908788
+FP Address:	ffd39d84
+----------
+FP Value:		134514484
+FP Address:	ffd39d80
+----------
+FP Value:		134514174
+FP Address:	ffd39d7c
+----------
+FP Value:		-136789979
+FP Address:	ffd39d78
+----------
+FP Value:		-135026408
+FP Address:	ffd39d74
+----------
+FP Value:		-2908696
+FP Address:	ffd39d70
+----------
+FP Value:		-136789984
+FP Address:	ffd39d6c
+----------
+FP Value:		-2908788
+FP Address:	ffd39d68
+----------
+FP Value:		134514484
+FP Address:	ffd39d64
+----------
+FP Value:		-135316128
+FP Address:	ffd39d60
+----------
+FP Value:		-136789946
+FP Address:	ffd39d5c
+----------
+FP Value:		-2908744
+FP Address:	ffd39d58
+----------
+FP Value:		-135319552
+FP Address:	ffd39d54
+----------
+FP Value:		-135319552
+FP Address:	ffd39d50
+----------
+FP Value:		0
+FP Address:	ffd39d4c
+----------
+FP Value:		-136819765
+FP Address:	ffd39d48
+----------
+FP Value:		-137062504
+FP Address:	ffd39d44
+----------
+FP Value:		-135316128
+FP Address:	ffd39d40
+----------
+FP Value:		808739897
+FP Address:	ffd39d3c
+----------
+FP Value:		862217830
+FP Address:	ffd39d38
+----------
+FP Value:		939819580
+FP Address:	ffd39d34
+----------
+FP Value:		-135028736
+FP Address:	ffd39d30
+----------
+FP Value:		-135319552
+FP Address:	ffd39d2c
+----------
+FP Value:		-2908696
+FP Address:	ffd39d28
+----------
+FP Value:		0
+FP Address:	ffd39d24
+----------
+FP Value:		-135316128
+FP Address:	ffd39d20
+----------
+FP Value:		-135319552
+FP Address:	ffd39d1c
+----------
+FP Value:		0
+FP Address:	ffd39d18
+----------
+FP Value:		1
+FP Address:	ffd39d14
+----------
+FP Value:		1
+FP Address:	ffd39d10
+----------
+FP Value:		-135302424
+FP Address:	ffd39d0c
+----------
+FP Value:		-135025968
+FP Address:	ffd39d08
+----------
+FP Value:		-135116606
+FP Address:	ffd39d04
+----------
+FP Value:		134520844
+FP Address:	ffd39d00
+----------
+FP Value:		-135026408
+FP Address:	ffd39cfc
+----------
+FP Value:		1
+FP Address:	ffd39cf8
+----------
+FP Value:		134513116
+FP Address:	ffd39cf4
+----------
+FP Value:		-135136624
+FP Address:	ffd39cf0
+----------
+FP Value:		0
+FP Address:	ffd39cec
+----------
+FP Value:		0
+FP Address:	ffd39ce8
+----------
+FP Value:		4096
+FP Address:	ffd39ce4
+----------
+FP Value:		0
+FP Address:	ffd39ce0
+----------
+FP Value:		0
+FP Address:	ffd39cdc
+----------
+FP Value:		-135026408
+FP Address:	ffd39cd8
+----------
+FP Value:		0
+FP Address:	ffd39cd4
+----------
+FP Value:		0
+FP Address:	ffd39cd0
+----------
+FP Value:		1000
+FP Address:	ffd39ccc
+----------
+FP Value:		1000
+FP Address:	ffd39cc8
+----------
+FP Value:		1
+FP Address:	ffd39cc4
+----------
+FP Value:		33204
+FP Address:	ffd39cc0
+----------
+FP Value:		-135303168
+FP Address:	ffd39cbc
+----------
+FP Value:		-137062504
+FP Address:	ffd39cb8
+----------
+FP Value:		0
+FP Address:	ffd39cb4
+----------
+FP Value:		-1
+FP Address:	ffd39cb0
+----------
+FP Value:		1
+FP Address:	ffd39cac
+----------
+FP Value:		165330952
+FP Address:	ffd39ca8
+----------
+FP Value:		-2908860
+FP Address:	ffd39ca4
+----------
+FP Value:		0
+FP Address:	ffd39ca0
+----------
+FP Value:		134513260
+FP Address:	ffd39c9c
+----------
+FP Value:		-2909008
+FP Address:	ffd39c98
+----------
+FP Value:		-135026408
+FP Address:	ffd39c94
+----------
+FP Value:		-135028736
+FP Address:	ffd39c90
+----------
+FP Value:		0
+FP Address:	ffd39c8c
+----------
+FP Value:		-2909008
+FP Address:	ffd39c88
+----------
+FP Value:		-136708578
+FP Address:	ffd39c84
+----------
+FP Value:		4096
+FP Address:	ffd39c80
+----------
+FP Value:		-136629510
+FP Address:	ffd39c7c
+----------
+FP Value:		4096
+FP Address:	ffd39c78
+----------
+FP Value:		-135319552
+FP Address:	ffd39c74
+----------
+FP Value:		-135319552
+FP Address:	ffd39c70
+----------
+FP Value:		-136629563
+FP Address:	ffd39c6c
+----------
+FP Value:		-135026408
+FP Address:	ffd39c68
+----------
+FP Value:		1
+FP Address:	ffd39c64
+----------
+FP Value:		0
+FP Address:	ffd39c60
+----------
+FP Value:		1
+FP Address:	ffd39c5c
+----------
+FP Value:		-135302424
+FP Address:	ffd39c58
+----------
+FP Value:		1
+FP Address:	ffd39c54
+----------
+FP Value:		-135026060
+FP Address:	ffd39c50
+----------
+FP Value:		-2909000
+FP Address:	ffd39c4c
+----------
+FP Value:		134513116
+FP Address:	ffd39c48
+----------
+FP Value:		-135136405
+FP Address:	ffd39c44
+----------
+FP Value:		-2908928
+FP Address:	ffd39c40
+----------
+FP Value:		-2909000
+FP Address:	ffd39c3c
+----------
+FP Value:		-135025968
+FP Address:	ffd39c38
+----------
+FP Value:		0
+FP Address:	ffd39c34
+----------
+FP Value:		-135139351
+FP Address:	ffd39c30
+----------
+FP Value:		120
+FP Address:	ffd39c2c
+----------
+FP Value:		64
+FP Address:	ffd39c28
+----------
+FP Value:		0
+FP Address:	ffd39c24
+----------
+FP Value:		0
+FP Address:	ffd39c20
+----------
+FP Value:		4096
+FP Address:	ffd39c1c
+----------
+FP Value:		99
+FP Address:	ffd39c18
+----------
+FP Value:		-135671853
+FP Address:	ffd39c14
+----------
+FP Value:		-135319552
+FP Address:	ffd39c10
+----------
+exit B
+exit A
+exit main

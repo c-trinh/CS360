@@ -1,0 +1,311 @@
+enter main
+enter a
+enter B
+
+FP Value (argc):	-7758296
+FP Address (argv):	ff899df8
+u Address (env):	ff899ddc
+
+1.) FP Value:	7
+2.) FP Address:	ff899ddc
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899dd8
+----------
+1.) FP Value:	-145705216
+2.) FP Address:	ff899dd4
+----------
+1.) FP Value:	-7758322
+2.) FP Address:	ff899dd0
+----------
+1.) FP Value:	15775231
+2.) FP Address:	ff899dcc
+----------
+1.) FP Value:	-7758388
+2.) FP Address:	ff899dc8
+----------
+1.) FP Value:	-7758388
+2.) FP Address:	ff899dc4
+----------
+1.) FP Value:	134514484
+2.) FP Address:	ff899dc0
+----------
+1.) FP Value:	134514174
+2.) FP Address:	ff899dbc
+----------
+1.) FP Value:	-145403867
+2.) FP Address:	ff899db8
+----------
+1.) FP Value:	-143648488
+2.) FP Address:	ff899db4
+----------
+1.) FP Value:	-7758296
+2.) FP Address:	ff899db0
+----------
+1.) FP Value:	-145403872
+2.) FP Address:	ff899dac
+----------
+1.) FP Value:	-7758388
+2.) FP Address:	ff899da8
+----------
+1.) FP Value:	134514484
+2.) FP Address:	ff899da4
+----------
+1.) FP Value:	-143930016
+2.) FP Address:	ff899da0
+----------
+1.) FP Value:	-145403834
+2.) FP Address:	ff899d9c
+----------
+1.) FP Value:	-7758344
+2.) FP Address:	ff899d98
+----------
+1.) FP Value:	-143933440
+2.) FP Address:	ff899d94
+----------
+1.) FP Value:	-143933440
+2.) FP Address:	ff899d90
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899d8c
+----------
+1.) FP Value:	-145433653
+2.) FP Address:	ff899d88
+----------
+1.) FP Value:	-145676392
+2.) FP Address:	ff899d84
+----------
+1.) FP Value:	-143930016
+2.) FP Address:	ff899d80
+----------
+1.) FP Value:	809002041
+2.) FP Address:	ff899d7c
+----------
+1.) FP Value:	959997542
+2.) FP Address:	ff899d78
+----------
+1.) FP Value:	956596796
+2.) FP Address:	ff899d74
+----------
+1.) FP Value:	-143650816
+2.) FP Address:	ff899d70
+----------
+1.) FP Value:	-143933440
+2.) FP Address:	ff899d6c
+----------
+1.) FP Value:	-7758296
+2.) FP Address:	ff899d68
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899d64
+----------
+1.) FP Value:	-143930016
+2.) FP Address:	ff899d60
+----------
+1.) FP Value:	-143933440
+2.) FP Address:	ff899d5c
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899d58
+----------
+1.) FP Value:	1
+2.) FP Address:	ff899d54
+----------
+1.) FP Value:	1
+2.) FP Address:	ff899d50
+----------
+1.) FP Value:	-143916312
+2.) FP Address:	ff899d4c
+----------
+1.) FP Value:	-143648048
+2.) FP Address:	ff899d48
+----------
+1.) FP Value:	-143738686
+2.) FP Address:	ff899d44
+----------
+1.) FP Value:	134520844
+2.) FP Address:	ff899d40
+----------
+1.) FP Value:	-143648488
+2.) FP Address:	ff899d3c
+----------
+1.) FP Value:	1
+2.) FP Address:	ff899d38
+----------
+1.) FP Value:	134513116
+2.) FP Address:	ff899d34
+----------
+1.) FP Value:	-143758704
+2.) FP Address:	ff899d30
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899d2c
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899d28
+----------
+1.) FP Value:	4096
+2.) FP Address:	ff899d24
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899d20
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899d1c
+----------
+1.) FP Value:	-143648488
+2.) FP Address:	ff899d18
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899d14
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899d10
+----------
+1.) FP Value:	1000
+2.) FP Address:	ff899d0c
+----------
+1.) FP Value:	1000
+2.) FP Address:	ff899d08
+----------
+1.) FP Value:	1
+2.) FP Address:	ff899d04
+----------
+1.) FP Value:	33204
+2.) FP Address:	ff899d00
+----------
+1.) FP Value:	-143917056
+2.) FP Address:	ff899cfc
+----------
+1.) FP Value:	-145676392
+2.) FP Address:	ff899cf8
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899cf4
+----------
+1.) FP Value:	-1
+2.) FP Address:	ff899cf0
+----------
+1.) FP Value:	1
+2.) FP Address:	ff899cec
+----------
+1.) FP Value:	149192712
+2.) FP Address:	ff899ce8
+----------
+1.) FP Value:	-7758460
+2.) FP Address:	ff899ce4
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899ce0
+----------
+1.) FP Value:	134513260
+2.) FP Address:	ff899cdc
+----------
+1.) FP Value:	-7758608
+2.) FP Address:	ff899cd8
+----------
+1.) FP Value:	-143648488
+2.) FP Address:	ff899cd4
+----------
+1.) FP Value:	-143650816
+2.) FP Address:	ff899cd0
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899ccc
+----------
+1.) FP Value:	-7758608
+2.) FP Address:	ff899cc8
+----------
+1.) FP Value:	-145322466
+2.) FP Address:	ff899cc4
+----------
+1.) FP Value:	4096
+2.) FP Address:	ff899cc0
+----------
+1.) FP Value:	-145243398
+2.) FP Address:	ff899cbc
+----------
+1.) FP Value:	4096
+2.) FP Address:	ff899cb8
+----------
+1.) FP Value:	-143933440
+2.) FP Address:	ff899cb4
+----------
+1.) FP Value:	-143933440
+2.) FP Address:	ff899cb0
+----------
+1.) FP Value:	-145243451
+2.) FP Address:	ff899cac
+----------
+1.) FP Value:	-143648488
+2.) FP Address:	ff899ca8
+----------
+1.) FP Value:	1
+2.) FP Address:	ff899ca4
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899ca0
+----------
+1.) FP Value:	1
+2.) FP Address:	ff899c9c
+----------
+1.) FP Value:	-143916312
+2.) FP Address:	ff899c98
+----------
+1.) FP Value:	1
+2.) FP Address:	ff899c94
+----------
+1.) FP Value:	-143648140
+2.) FP Address:	ff899c90
+----------
+1.) FP Value:	-7758600
+2.) FP Address:	ff899c8c
+----------
+1.) FP Value:	134513116
+2.) FP Address:	ff899c88
+----------
+1.) FP Value:	-143758485
+2.) FP Address:	ff899c84
+----------
+1.) FP Value:	-7758528
+2.) FP Address:	ff899c80
+----------
+1.) FP Value:	-7758600
+2.) FP Address:	ff899c7c
+----------
+1.) FP Value:	-143648048
+2.) FP Address:	ff899c78
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899c74
+----------
+1.) FP Value:	-143761431
+2.) FP Address:	ff899c70
+----------
+1.) FP Value:	120
+2.) FP Address:	ff899c6c
+----------
+1.) FP Value:	64
+2.) FP Address:	ff899c68
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899c64
+----------
+1.) FP Value:	0
+2.) FP Address:	ff899c60
+----------
+1.) FP Value:	4096
+2.) FP Address:	ff899c5c
+----------
+1.) FP Value:	99
+2.) FP Address:	ff899c58
+----------
+1.) FP Value:	-144285741
+2.) FP Address:	ff899c54
+----------
+1.) FP Value:	-143933440
+2.) FP Address:	ff899c50
+----------
+exit B
+exit A
+exit main

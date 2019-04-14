@@ -1,0 +1,2 @@
+gcc -m32 t.c s.s queue.o
+
